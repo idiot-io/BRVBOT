@@ -1,8 +1,6 @@
 
 first etched at  brvbot2019 workshop  
-![mummy design by Zohar MF](https://i.imgur.com/0alyVEnl.jpg)
-
-<img src="./Mummy.svg">
+![mummy design by Zohar MF](https://i.imgur.com/0alyVEnl.jpg) <img src="./Mummy.svg">
 
 
 original [clipart](https://openclipart.org/detail/60241/mummy) by J_Alves  
